@@ -1,0 +1,97 @@
+Date,Description,Amount,Type,Category,Notes
+01/08/2026,Monthly Salary,75000.00,Credit,Income,August Payroll Direct Deposit
+02/08/2026,House Rent,16000.00,Debit,Housing and Rent,Apartment monthly rent
+03/08/2026,Society Maintenance,2500.00,Debit,Housing and Rent,Monthly apartment society maintenance
+03/08/2026,Blinkit Groceries,1240.00,Debit,Groceries,Weekly grocery stock
+04/08/2026,BESCOM Electricity,1780.00,Debit,Utilities,July-August electricity bill
+05/08/2026,Spotify Premium,119.00,Debit,Subscriptions,Monthly individual music streaming
+05/08/2026,Swiggy Dinner,560.00,Debit,Food and Dining,Biryani dinner delivery
+06/08/2026,Uber Ride,310.00,Debit,Transportation,Cab to tech park
+07/08/2026,Starbucks Coffee,380.00,Debit,Food and Dining,Cold brew with colleague
+08/08/2026,Amazon Basics,1499.00,Debit,Shopping,Computer keyboard and mouse pad
+09/08/2026,Namma Metro Recharge,500.00,Debit,Transportation,Commute smart card top-up
+10/08/2026,Apollo Pharmacy,450.00,Debit,Healthcare,Routine multivitamins
+10/08/2026,BigBasket Staples,2150.00,Debit,Groceries,Monthly cooking oil and grains
+11/08/2026,Zomato Lunch,420.00,Debit,Food and Dining,Rice bowl lunch delivery
+12/08/2026,Netflix Subscription,649.00,Debit,Subscriptions,Monthly standard HD plan
+13/08/2026,Indian Oil Petrol,1800.00,Debit,Transportation,Car petrol refill
+14/08/2026,DMart Supermarket,3200.00,Debit,Groceries,Household provisions and detergent
+15/08/2026,Chai Point,180.00,Debit,Food and Dining,Evening tea and banana cake
+16/08/2026,Airtel Broadband,1179.00,Debit,Utilities,Fiber wifi 200Mbps recharge
+17/08/2026,Practo Doctor Consultation,800.00,Debit,Healthcare,General physician tele-consult
+18/08/2026,Zerodha Coin SIP,10000.00,Debit,Investment,Nifty 50 Index Mutual Fund SIP
+19/08/2026,Zepto Quick Delivery,460.00,Debit,Groceries,Dairy milk and bakery snacks
+20/08/2026,CultFit Gym Membership,1500.00,Debit,Personal Care,Monthly fitness center access
+21/08/2026,Swiggy Instamart,780.00,Debit,Groceries,Fresh fruits and bread
+22/08/2026,BookMyShow Movie Tickets,750.00,Debit,Entertainment,Weekend cinema tickets
+23/08/2026,Uber Ride,290.00,Debit,Transportation,Cab ride back from cinema
+24/08/2026,Amazon Return Refund,499.00,Credit,Refund,Refund for returned USB hub
+25/08/2026,Myntra Fashion,2200.00,Debit,Shopping,Casual cotton shirts
+26/08/2026,Indane Gas Cylinder,950.00,Debit,Utilities,LPG domestic cylinder refill
+27/08/2026,Coursera Course,1999.00,Debit,Education,Python data engineering course
+28/08/2026,Urban Company Haircut,650.00,Debit,Personal Care,Home grooming and hair styling
+29/08/2026,Nature's Basket,1120.00,Debit,Groceries,Artisan sourdough and cheese
+30/08/2026,McDonald's Meal,490.00,Debit,Food and Dining,Burger combo drive-thru
+31/08/2026,Transfer to Emergency Fund,5000.00,Debit,Transfer,Emergency fund recurring transfer
+01/09/2026,Monthly Salary,75000.00,Credit,Income,September Payroll Direct Deposit
+01/09/2026,Freelance Consulting,18000.00,Credit,Income,API consulting project settlement
+02/09/2026,House Rent,16000.00,Debit,Housing and Rent,Apartment monthly rent
+03/09/2026,Society Maintenance,2500.00,Debit,Housing and Rent,Monthly apartment society maintenance
+03/09/2026,Blinkit Groceries,1350.00,Debit,Groceries,Vegetables and organic paneer
+04/09/2026,BESCOM Electricity,1820.00,Debit,Utilities,August-September electricity bill
+05/09/2026,Spotify Premium,119.00,Debit,Subscriptions,Monthly individual music streaming
+05/09/2026,Swiggy Dinner,620.00,Debit,Food and Dining,North Indian thali dinner
+06/09/2026,Shell Petrol Station,2100.00,Debit,Transportation,Full tank premium petrol
+07/09/2026,BigBasket Daily,1890.00,Debit,Groceries,Weekly dairy and vegetables
+08/09/2026,Flipkart Electronics,1899.00,Debit,Shopping,Ergonomic wireless keyboard
+09/09/2026,Namma Metro Recharge,500.00,Debit,Transportation,Commute smart card top-up
+10/09/2026,Tata 1mg Pharmacy,620.00,Debit,Healthcare,Prescription allergy medication
+11/09/2026,Zomato Gourmet,850.00,Debit,Food and Dining,Italian woodfired pizza
+12/09/2026,Netflix Subscription,649.00,Debit,Subscriptions,Monthly standard HD plan
+13/09/2026,Uber Premier,480.00,Debit,Transportation,Airport ride to terminal 1
+14/09/2026,DMart Supermarket,3650.00,Debit,Groceries,Monthly grocery provisions
+15/09/2026,Starbucks Coffee,390.00,Debit,Food and Dining,Matcha latte and croissant
+16/09/2026,Airtel Broadband,1179.00,Debit,Utilities,Fiber wifi 200Mbps recharge
+17/09/2026,Dr. Lal PathLabs,1200.00,Debit,Healthcare,Routine annual health checkup
+18/09/2026,Zerodha Coin SIP,10000.00,Debit,Investment,Nifty 50 Index Mutual Fund SIP
+19/09/2026,Zepto Quick Delivery,520.00,Debit,Groceries,Morning juices and eggs
+20/09/2026,CultFit Gym Membership,1500.00,Debit,Personal Care,Monthly fitness center access
+21/09/2026,Steam Video Games,1299.00,Debit,Entertainment,Indie exploration game
+22/09/2026,Swiggy Instamart,840.00,Debit,Groceries,Ice creams and snacks
+23/09/2026,Uber Ride,340.00,Debit,Transportation,Cab meeting in Indiranagar
+24/09/2026,Flipkart Return Refund,1899.00,Credit,Refund,Refund for keyboard return
+25/09/2026,Zara Clothing,3490.00,Debit,Shopping,Autumn formal trousers
+26/09/2026,BWSSB Water Utility,480.00,Debit,Utilities,Monthly municipal water charge
+27/09/2026,Kindle Technical Books,699.00,Debit,Education,LLM application engineering guide
+28/09/2026,Domino's Pizza,650.00,Debit,Food and Dining,Weekend pan pizza delivery
+29/09/2026,Ola Cabs,260.00,Debit,Transportation,Ride to local market
+30/09/2026,Transfer to PPF Account,5000.00,Debit,Transfer,Public Provident Fund contribution
+01/10/2026,Monthly Salary,75000.00,Credit,Income,October Payroll Direct Deposit
+01/10/2026,Festive Performance Bonus,25000.00,Credit,Income,Q3 festive performance bonus
+02/10/2026,House Rent,16000.00,Debit,Housing and Rent,Apartment monthly rent
+02/10/2026,Society Maintenance,2500.00,Debit,Housing and Rent,Monthly apartment society maintenance
+03/10/2026,Blinkit Groceries,1420.00,Debit,Groceries,Festive sweets and cooking oil
+04/10/2026,BESCOM Electricity,1850.00,Debit,Utilities,September power bill
+05/10/2026,Spotify Premium,119.00,Debit,Subscriptions,Monthly individual music streaming
+05/10/2026,Swiggy Dinner,740.00,Debit,Food and Dining,Weekend family meal
+06/10/2026,Uber Ride,350.00,Debit,Transportation,Travel to office
+07/10/2026,BigBasket Super,2340.00,Debit,Groceries,Festival dry fruits and organic staples
+08/10/2026,Amazon Great Indian Festival,8499.00,Debit,Shopping,Smart home speaker and kitchen appliance
+09/10/2026,Namma Metro Recharge,500.00,Debit,Transportation,Metro travel card recharge
+10/10/2026,Apollo Pharmacy,510.00,Debit,Healthcare,Routine vitamins and wellness items
+11/10/2026,Zomato Family Dinner,1150.00,Debit,Food and Dining,Weekend dinner at restaurant
+12/10/2026,Netflix Subscription,649.00,Debit,Subscriptions,Monthly standard HD plan
+13/10/2026,Indian Oil Petrol,2200.00,Debit,Transportation,Full tank car petrol
+14/10/2026,DMart Hypermarket,3890.00,Debit,Groceries,Household provisions and pantry restock
+15/10/2026,Starbucks Coffee,410.00,Debit,Food and Dining,Coffee with colleague
+16/10/2026,Airtel Broadband,1179.00,Debit,Utilities,Fiber wifi recharge
+17/10/2026,Croma Electronics,3999.00,Debit,Shopping,Noise cancelling wireless headphones
+18/10/2026,Zerodha Coin SIP,10000.00,Debit,Investment,Nifty 50 Index Mutual Fund SIP
+19/10/2026,Zepto Quick Delivery,610.00,Debit,Groceries,Fresh bread butter and cold brew
+20/10/2026,CultFit Gym Membership,1500.00,Debit,Personal Care,Monthly fitness membership
+21/10/2026,BookMyShow Diwali Show,900.00,Debit,Entertainment,Festive theater performance tickets
+22/10/2026,Amazon Return Refund,899.00,Credit,Refund,Return of speaker accessory
+22/10/2026,Swiggy Instamart,920.00,Debit,Groceries,Festive sweets and tea snacks
+23/10/2026,Uber Premier,520.00,Debit,Transportation,Family visit to Indiranagar
+24/10/2026,Urban Company Deep Cleaning,1800.00,Debit,Personal Care,Home festival deep cleaning service
+25/10/2026,Nature's Basket Gourmet,1340.00,Debit,Groceries,Artisan bakery and specialty spices

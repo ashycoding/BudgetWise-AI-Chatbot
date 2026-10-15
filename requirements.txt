@@ -1,0 +1,21 @@
+# Core Language Model & SDK
+openai>=1.14.0
+
+# Data Analysis & Processing
+pandas>=2.2.0
+
+# Data Validation & Settings Management
+pydantic>=2.6.0
+pydantic-settings>=2.2.0
+
+# Environment Management
+python-dotenv>=1.0.1
+
+# User Interface
+streamlit>=1.32.0
+
+# Machine Learning Baseline for Expense Categorization
+scikit-learn>=1.4.0
+
+# Testing & Quality Assurance
+pytest>=8.0.0

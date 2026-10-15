@@ -1,0 +1,206 @@
+{
+  "functional_correctness": {
+    "passed": true,
+    "findings": []
+  },
+  "nlp_evaluation": {
+    "total_cases": 118,
+    "rule_based_accuracy": 98.31,
+    "hybrid_accuracy": 99.15,
+    "macro_f1": 0.99,
+    "subset_performance": {
+      "standard": {
+        "correct": 46,
+        "total": 46,
+        "accuracy": 100.0
+      },
+      "abbreviation": {
+        "correct": 4,
+        "total": 4,
+        "accuracy": 100.0
+      },
+      "misspelling": {
+        "correct": 5,
+        "total": 5,
+        "accuracy": 100.0
+      },
+      "indian_merchant": {
+        "correct": 53,
+        "total": 53,
+        "accuracy": 100.0
+      },
+      "ambiguous": {
+        "correct": 9,
+        "total": 10,
+        "accuracy": 90.0
+      }
+    },
+    "category_metrics": {
+      "EMI and Debt Payments": {
+        "support": 7,
+        "precision": 0.88,
+        "recall": 1.0,
+        "f1": 0.94
+      },
+      "Education": {
+        "support": 7,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "Entertainment": {
+        "support": 7,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "Food and Dining": {
+        "support": 8,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "Groceries": {
+        "support": 8,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "Healthcare": {
+        "support": 7,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "Housing and Rent": {
+        "support": 7,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "Income": {
+        "support": 7,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "Investments and Savings": {
+        "support": 7,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "Other": {
+        "support": 10,
+        "precision": 1.0,
+        "recall": 0.9,
+        "f1": 0.95
+      },
+      "Personal Care": {
+        "support": 6,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "Shopping": {
+        "support": 8,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "Subscriptions": {
+        "support": 7,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "Transportation": {
+        "support": 8,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "Travel": {
+        "support": 7,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "Utilities": {
+        "support": 7,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "confusion_matrix": {
+      "Food and Dining": {
+        "Food and Dining": 8
+      },
+      "Groceries": {
+        "Groceries": 8
+      },
+      "Transportation": {
+        "Transportation": 8
+      },
+      "Housing and Rent": {
+        "Housing and Rent": 7
+      },
+      "Utilities": {
+        "Utilities": 7
+      },
+      "Shopping": {
+        "Shopping": 8
+      },
+      "Healthcare": {
+        "Healthcare": 7
+      },
+      "Education": {
+        "Education": 7
+      },
+      "Entertainment": {
+        "Entertainment": 7
+      },
+      "Subscriptions": {
+        "Subscriptions": 7
+      },
+      "Travel": {
+        "Travel": 7
+      },
+      "Personal Care": {
+        "Personal Care": 6
+      },
+      "EMI and Debt Payments": {
+        "EMI and Debt Payments": 7
+      },
+      "Investments and Savings": {
+        "Investments and Savings": 7
+      },
+      "Income": {
+        "Income": 7
+      },
+      "Other": {
+        "Other": 9,
+        "EMI and Debt Payments": 1
+      }
+    },
+    "misclassifications": [
+      {
+        "description": "Pmt 984712 debit",
+        "subset": "ambiguous",
+        "expected": "Other",
+        "predicted": "EMI and Debt Payments",
+        "method": "ml_model",
+        "confidence": 0.93,
+        "confidence_band": "medium",
+        "needs_confirmation": false
+      }
+    ]
+  },
+  "chatbot_behavior": {
+    "findings": []
+  },
+  "security_privacy": {
+    "findings": []
+  }
+}
